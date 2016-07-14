@@ -1,0 +1,26 @@
+{
+  "name": "vue-bulma-progress-bar",
+  "version": "1.0.0",
+  "description": "ProgressBar Component for Vue Bulma",
+  "main": "src/ProgressBar.vue",
+  "devDependencies": {
+    "bulma": "0.1.0",
+    "vue": "1.0.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/vue-bulma/progress-bar.git",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-progress",
+    "vue-bulma-progress-bar",
+    "progress-bar",
+    "progress"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}
