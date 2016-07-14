@@ -1,6 +1,6 @@
-# Switch
+# ProgressBar
 
-Switch component for Vue Bulma.
+ProgressBar component for Vue Bulma.
 
 ## Badges
 
