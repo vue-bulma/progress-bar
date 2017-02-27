@@ -4,11 +4,10 @@
   "description": "ProgressBar Component for Vue Bulma",
   "main": "src/ProgressBar.vue",
   "peerDependencies": {
-    "bulma": "^0.2",
-    "vue": ">=2.0.0-beta.0"
+    "bulma": ">=0.2",
+    "vue": ">=2"
   },
-  "scripts": {},
-  "repository": "git+https://github.com/vue-bulma/progress-bar.git",
+  "repository": "vue-bulma/progress-bar",
   "keywords": [
     "vue",
     "bulma",
