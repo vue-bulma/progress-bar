@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ProgressBar Component for Vue Bulma",
   "main": "src/ProgressBar.vue",
   "peerDependencies": {
