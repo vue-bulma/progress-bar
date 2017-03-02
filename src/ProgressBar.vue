@@ -25,7 +25,7 @@ export default {
 
   computed: {
     percentage () {
-      return this.value / this.max * 100
+      return Math.floor(this.value / this.max * 100)
     }
   }
 
